@@ -1,8 +1,6 @@
+# 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## NAME: Akshai khanna D
 ## REGISTER NUMBER: 212223040010
-
-# 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-
 ## AIM
 To write a python program to perform sliding window protocol.
 
